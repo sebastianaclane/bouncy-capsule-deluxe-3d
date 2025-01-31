@@ -5,6 +5,7 @@ A 3D Platformer game I developed between January - March 2022. Designed 3 levels
 # What I Learned
 
 * Developing and deploying a game in the Unity Engine
+* Followed along the "Build Your First 3D Game in Unity | Unity Beginner Tutorial by Coding In Flow" YouTube tutorial series to create the game: https://www.youtube.com/playlist?list=PLrnPJCHvNZuB5ATsJZLKX3AW4V9XaIV9b
 * Designing platformer levels with mechanics such as wall jumping and bouncy platforms while increasing the difficulty each level
 * Using Time.deltaTime can be used to rotate an object while being frame independent
 * Creating C# scripts involving collision methods like OnTriggerEnter() and OnTriggerExit() and creating a waypoint follower logic to move certain platforms between two waypoints either vertically or horizontally
